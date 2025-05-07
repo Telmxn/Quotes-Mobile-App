@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  QuotesPractice
+
+  Created by Telman Yusifov on 02.05.25.
+  
+*/
+
+"choose_language" = "Dil seçin";
+"next_quote" = "Növbəti sitat";
+"cancel" = "Ləğv et";
+"quote1" = "Ən böyük qələbə öz üzərimizdə qazandığımız qələbədir.";
+"quote1author" = "Platon";
+"quote2" = "Başqalarını idarə etmək istəyən əvvəlcə özünü idarə etməyi bacarmalıdır.";
+"quote2author" = "Konfutsi";
+"quote3" = "Nə qədər azad yaşasanız, həyat bir o qədər gözəl olar.";
+"quote3author" = "Lev Tolstoy";

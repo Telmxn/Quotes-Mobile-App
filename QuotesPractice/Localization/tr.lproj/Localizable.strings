@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  QuotesPractice
+
+  Created by Telman Yusifov on 02.05.25.
+  
+*/
+
+"choose_language" = "Dil Seçin";
+"next_quote" = "Sonraki alıntı";
+"cancel" = "İptal et";
+"quote1" = "En büyük zafer, insanın kendisine karşı kazandığı zaferdir.";
+"quote1author" = "Platon";
+"quote2" = "Başkalarını yönetmek isteyen önce kendisini yönetebilmelidir.";
+"quote2author" = "Konfutsi";
+"quote3" = "Ne kadar sade yaşarsanız, hayat o kadar güzel olur.";
+"quote3author" = "Lev Tolstoy";

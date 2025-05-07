@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  QuotesPractice
+
+  Created by Telman Yusifov on 02.05.25.
+  
+*/
+
+"choose_language" = "Choose Language";
+"next_quote" = "Next quote";
+"cancel" = "Cancel";
+"quote1" = "The greatest victory is victory over oneself.";
+"quote1author" = "Platon";
+"quote2" = "He who wishes to govern others must first learn to govern himself.";
+"quote2author" = "Confucius";
+"quote3" = "The simpler you live, the more beautiful life becomes.";
+"quote3author" = "Leo Tolstoy";
